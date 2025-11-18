@@ -1,6 +1,11 @@
 h1{
     color:black;
     background-color: maroon;
+    border: 2px solid black ;
+    padding: 5px;
+    padding-top : 10px;
+    margin: 10px;
+    margin-left : 30px; 
 }
 body{
     color:rgb(12, 200, 0);
