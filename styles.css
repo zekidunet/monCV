@@ -21,18 +21,18 @@ html{
     max-height: 100%;
 }
 #div1 {
-    border:#212227;
-    box-shadow: #8693AB;
+    background-color: #177ed3;
+    border: 2px solid black ;
 }
 #div2 {
-    border:#637074;
-    box-shadow: #edeff3;
+    background-color: #d898d32f;
+    border: 2px solid black ;
 }
 #div3 {
-    border:#1638e2;
-    box-shadow: #769ce4;
+    background-color: #6ae744;
+    border: 2px solid black ;
 }
 footer{
-    background-color: #BDD4E7;
+    background-color: #d63939;
     border: 2px solid black ;
 }
