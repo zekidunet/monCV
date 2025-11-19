@@ -20,15 +20,19 @@ html{
     background-color: #8693AB;
     max-height: 100%;
 }
-div1 {
+#div1 {
     border:#212227;
     box-shadow: #8693AB;
 }
-div2 {
+#div2 {
     border:#637074;
     box-shadow: #edeff3;
 }
-div3 {
+#div3 {
     border:#1638e2;
     box-shadow: #769ce4;
+}
+footer{
+    background-color: #BDD4E7;
+    border: 2px solid black ;
 }
