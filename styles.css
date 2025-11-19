@@ -1,6 +1,6 @@
 h1{
-    color:black;
-    background-color: maroon;
+    color:#212227;
+    background-color: #BDD4E7;
     border: 2px solid black ;
     padding: 5px;
     padding-top : 10px;
@@ -8,11 +8,11 @@ h1{
     margin-left : 30px; 
 }
 body{
-    color:rgb(12, 200, 0);
+    color:#AAB9CF;
 }
 em{
-    color: #45A1BB;;
+    color: #637074;;
 }
 html{
-    background-color: blanchedalmond;
+    background-color: #8693AB;
 }
