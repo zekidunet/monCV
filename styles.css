@@ -1,13 +1,124 @@
-h1{
-    color:black;
-    background-color: maroon;
+
+body {
+  display: flex;
+  color: #aab9cf;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
 }
-body{
-    color:rgb(12, 200, 0);
+html {
+  background: linear-gradient(to bottom left, #5d5d81 38%, #000000 100%);
+  height: 100%;
 }
-em{
-    color: #45A1BB;;
+
+h1 {
+  color: #fefcfd;
+  background-color: #8080b3;
+  border: 2px solid #000000;
+  width: auto;
 }
-html{
-    background-color: blanchedalmond;
+h2 {
+  color: #fefcfd;
+  background-color: #8080b3;
+  border: 2px solid #000000;
+}
+h3 {
+  color: #fefcfd;
+  background-color: #8080b3;
+  border: 2px solid #000000;
+}
+article {
+  color: #fefcfd;
+  background-color: #8080b3;
+  border: 2px solid #000000;
+}
+
+nav {
+  color: #000000;
+  background-color: #dadae6;
+  border: 2px solid #000000;
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-items: end;
+  align-items: center;
+}
+main{
+  display: flex;
+  margin-top: 10px;
+  flex-direction: row;
+  align-self:baseline;
+}
+#left{
+    padding: 20px;
+    width: 500px;
+    background-color: #bbbbda57;
+    display: flex;
+    margin: auto;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 10px;
+    flex-direction: column;
+}
+#lTop {
+  display: flex;
+  flex-direction: row;
+}
+#lTop h1 {
+  font-size: small;
+  width:fit-content;
+  height:fit-content;
+  margin-left: 5px;
+} 
+#lTL {
+  color: #fefcfd;
+  margin-left: 5px;
+}
+
+#lMid {
+  color: #fefcfd;
+}
+#lMid h2 {
+  width: auto;
+}
+
+
+#center {
+  background-color: #bbbbda57;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+
+}
+#parcours {
+  padding-left: 10px;
+  width: 500px;
+  height: 150px;
+  color: #fefcfd;
+}
+#experience {
+  padding-left: 10px;
+  width: 500px;
+  height: 150px;
+  color: #fefcfd;
+}
+
+
+
+#piedDePage {
+  color: #fefcfd;
+  background-color: #8080b3;
+  border: 2px solid #000000;  
+  font-size: small;
+  font-style: italic;
+  width: auto;
+  height: auto;
+  margin: auto;
+  margin-right: 90%;
+  position:fixed;
+  top: 0%;
 }
